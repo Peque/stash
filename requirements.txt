@@ -1,3 +1,4 @@
+deepdiff
 nrel-pysam
 pandas
 plotly
